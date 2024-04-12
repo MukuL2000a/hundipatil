@@ -1,0 +1,11 @@
+.nav-menus {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.nav-menus li {
+    display: inline;
+    margin-right: 10%;
+}
